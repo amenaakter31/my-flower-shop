@@ -168,38 +168,24 @@ margin-bottom: 48px;
 /*section two start*/
 .section-two{
     max-width: 80%;
-    margin: auto;
-    margin-top: 50px;
-    border-radius: 8px;
+    display: flex;
+    justify-content:space-around ;
+   
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    padding: 50px;
     width: 1440px;
     background: rgba(39, 39, 39, 0.05);  
-    text-align: center;
-    display: flex;
-    align-items: center ;
-    justify-content: space-around;
-    margin-top: 150px;
-}
+    border-radius: 8px;
+    gap: 20px;
 
-.sectioon-two-gap{
-    max-width: 80%;
-    margin:auto;
-    margin-top: 15px;
-    margin-bottom: 5px;
-   
 }
-.section-two-photo1{
+.para{
     color: rgba(39, 39, 39, 0.80);
-    text-align: center;
-    width: auto;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: 600;
-    line-height: 35px;
-    margin: 32px;
-    min-height: 50px;
     text-align: center;
-    justify-content: center;
-    padding: 5px;
-
 }
 
 
