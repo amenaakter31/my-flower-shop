@@ -173,7 +173,11 @@ margin-bottom: 48px;
     border-radius: 8px;
     width: 1440px;
     background: rgba(39, 39, 39, 0.05);  
+    text-align: center;
     display: flex;
+    align-items: center ;
+    justify-content: space-around;
+    margin-top: 150px;
 }
 
 .sectioon-two-gap{
